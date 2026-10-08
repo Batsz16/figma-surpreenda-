@@ -24,15 +24,9 @@ main{
     margin-bottom: 50px;
 }
 
-h1{
-    color: #6C3AED;
-    font-family: Poppins, Arial, sans-serif;
-}
-
 h2, h3{
     color: #2D1B69;
     margin-bottom: 15px;
-    font-family: Poppins, Arial, sans-serif;
 }
 
 p{
@@ -64,15 +58,3 @@ button:hover{
     color: #FFC700;
     font-weight: bold;
 }
-
-.produtos-alinhados{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-content: space-around;
-}
-
-.logo{
-    width: 250px;
-}
-
